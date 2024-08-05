@@ -1,0 +1,10 @@
+organisation,Election Commission of India
+sectors,"Electoral Statistics"
+updated_frequency,As and When
+granularity,"Yearly, State, Lok Sabha Constituency"
+time_saved,5 hours
+source,"Election Commission of India"
+source_link,"https://results.eci.gov.in/"
+time_period,"2024"
+units,"EVM_votes, postal_votes, total_votes in absolute number"
+citation,"Election Commission of India. Comprehensive Results of General Election to Lok Sabha- 2024 [Data set]. Dataful. https://dataful.in/datasets/19985/19985"
